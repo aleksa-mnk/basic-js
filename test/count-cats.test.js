@@ -110,5 +110,3 @@ describe('Count cats!', () => {
     });
   });
 });
-
-
